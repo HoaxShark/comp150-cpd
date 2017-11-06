@@ -52,9 +52,8 @@ Me and Beren (paired partner) decided to change some of the code in our contract
 
 ## Week 6
 
-Spent the week with my team working in the studio! Made a lot of progress on the game...
-
-Weekly journal goes here. Reflect.
+For this week I spent the first half in the studio working with my team, we managed to storm through the sprint targets, we ended up having to take more stories from the backlog, I think we should look at having more choosen to do in the planning meeting as we had a bit of trouble with people not being sure what to work on next. For the second half I stayed home to work on my research essay, I find the studio very loud esspically when everyone was there and its not an enviroment I choose compared to home. I've been struggling with the research work as I feel quite lost, though I have started setting myself timed sessions where I force myself to look more into it.
+On the last day we all got together and medled our work into one, we found out this day that on the coming monday we needed a group presentation to be handed in, so we planned to do our slides personally on the weekend and merge them together.
 
 ## Week 7
 
