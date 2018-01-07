@@ -58,35 +58,47 @@ On the last day we all got together and medled our work into one, we found out t
 ## Week 7
 
 Presented agile research
+
 Started tinkering audio
+
 Different alogirthims 
 
 ## Week 8
 
 Peer review of agile
+
 Missed tinkering audio
+
 Research journal review
 
 ## Week 9
 
 Look at CPD and make SMART goals
+
 Last tinkering audio
+
 Data types
 
 ## Week 10
 
 Presented game to class with pitch
+
 Tinkering audio review
+
 How the machines run
 
 ## Week 11
 
 Learnt more about version control
+
 Started unreal
+
 More data types
 
 ## Week 12
 
 Went along to the new game ptich
+
 More unreal
+
 maths in computing
