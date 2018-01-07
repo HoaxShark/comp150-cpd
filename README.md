@@ -57,36 +57,36 @@ On the last day we all got together and medled our work into one, we found out t
 
 ## Week 7
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Presented agile research
+Started tinkering audio
+Different alogirthims 
 
 ## Week 8
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Peer review of agile
+Missed tinkering audio
+Research journal review
 
 ## Week 9
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Look at CPD and make SMART goals
+Last tinkering audio
+Data types
 
 ## Week 10
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Presented game to class with pitch
+Tinkering audio review
+How the machines run
 
 ## Week 11
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Learnt more about version control
+Started unreal
+More data types
 
 ## Week 12
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Went along to the new game ptich
+More unreal
+maths in computing
