@@ -57,48 +57,75 @@ On the last day we all got together and medled our work into one, we found out t
 
 ## Week 7
 
-Presented agile research
+Start of tinker audio - Essay when not in lectures main essay push for peer reviews. Felt slightly stressed about completing enough work for the peer review sessions but made sure to relax and have enough time to only work when it felt productive. Slacked on my scrum master roles as we have all been doing essay work instead of group project work. New paired programming partner, haven’t done any work out of hours yet.
 
-Started tinkering audio
-
-Different alogirthims 
 
 ## Week 8
 
-Peer review of agile
+Essay completion week - Had driving cours. Still no work out of hours with new programing partner, I’ve been focused on the essays but need to manage my time in a way I can keep up to date with all projects
 
-Missed tinkering audio
+### Term 2
 
-Research journal review
+## Week 1
+
+Was informed about the different module assignments 
+Started basics of C++ with Brian and looking into some alt controllers 
+Learnt about quality and risk management
+Have gotten some help on the unreal team game where I had been stuck.
+First unreal lesson was covering stuff we had to self teach already
+First PO meeting in a while, discussed that our communication sucks and need to work on it.
+Learnt that in the studio avoid the i3’s at all costs the compiling time is too much on them and you may as well just go to bed instead of being in.
+
+## Week 2
+
+Started Arduino’s. New stuff to learn regarding electronics but seems really interesting. Trying to think of an idea for a custom controller have one but want something else.
+Tuesday I merged the different projects into one because it was taking too long for it to be done beren
+Wednesday snow day no do anything!
+Thursday spent the day with the team and got the game and learnt blocking out on unreal. We stayed to make sure the game had a working build with things rdy for review on friday
+Friday stayed home to collect something important. Missed the PO sadly and turns out our project broke.
+
+## Week 3
+
+Got a better idea for my alt controller game
+Team cohesion its going a bit better this week, times for stand ups etc are being sorted in advance.
+Managed some more work on the group project
+Went awol for the last 3 days of the week, was feeling shitty (quitting smoking took it out of me). Spent minimal time working on time working from home, but made sure not to miss any lectures or the PO meeting
+
+## Week 4
+
+Feeling much better, finished the lecture work after lesson working along with mango louie and adrian, would be crazy tricky without their help. But i feel like i'm learning.
+Making it to all stand ups and staying to work on the group project. Not that hard when the stand ups are basically non existent though
+
+## Week 5
+
+## Week 6
+
+This week has been a game project week, it’s really hammered home to me how little the group are interested in the game. Day one was me and adrian for most of it. Day two no difference and past that I just worked from home because it felt pointless to travel and work in a less comfortable environment when the team wasn’t there anyway. This experience has really killed my interest in the group project. We are getting no guidance from the designers as to what they want, we just add whatever we want, and they may complain about it later. 
+
+## Week 7
+
+We had the show and tell, it was interesting in part to see everyones games, for our year i could see a bit of a gap between the unity projects and the unreal one, unity looking more polished already. I think this is just due to experience. Show and tell comes down to marketing in my eyes, would much rather get to try these games and see what they are really like. We did our software presentations as well, I made it through, luckily no one else has any idea, expect the lecturers and they just added good avenues for me to research into which was great. I made sure to take into account my previous feedback on presentation though, so hopefully that came off better.
+
+## Week 8
+
+This week was focused mainly on my software engineering essay, I really struggled with this one, I didn’t feel like I had any idea what i was writing about, was just kinda making sure i had done something. Its pretty sad to be at that point, nothing seemed to click this time like it has with previous essays. Maybe i should have picked a topic i knew more about already or was more interested in, but with such a wide scope i struggled to choose and ended up just going with something i thought i could grasp. Either way its all done and handed in.
 
 ## Week 9
 
-Look at CPD and make SMART goals
-
-Last tinkering audio
-
-Data types
-
+I missed some lectures this week as I wasn’t very well, I intend to catch up with the work that I missed though. As ever the studio practices are empty when it comes to our team. Coming back from break is always a bit slow going and it really didn’t help not feeling well
+ 
 ## Week 10
 
-Presented game to class with pitch
-
-Tinkering audio review
-
-How the machines run
+This week has been a bit of crunch, have been in with the team working on making sure the game is ready and working, its really annoying that only now are more of the team interested. There are a lot of requests to change things and it feels like had these been asked about earlier we would be in a much better place. But we are doing what we can and trying to stop too much late content creep, but some of the content is pretty needed. We showed our games too in one of the bsc classes, ours has changed a lot since the show and tell and was good to see people enjoying it. I got my 3d model printed and have done all the wiring and soldering, was really enjoyable actually, making something physical is rather fun.
 
 ## Week 11
 
-Learnt more about version control
-
-Started unreal
-
-More data types
+Group game project was handed in, feels nice to have it done with, controller project also handed in. All that's left is the CPD stuff which should be alright. I should really have started sooner with my controller project, would have given me more time to fix slight issues, but overall i'm pleased with what I made. We were set a summer project just to come up with a world idea that a game could be set in. It’ll be interesting to do.
 
 ## Week 12
 
-Went along to the new game ptich
+Lecture on some more design patterns was interesting but due to missing one of the classes before hand I didn’t get some of what was brought to the lecture. Been thinking about my CPD what sort of stuff interests me, it's tricky to be sure, im thinking maybe VR/AR as it does interest me anyway, but next year when we get to work with that i’ll have a better idea.
+ 
+## Week 13
 
-More unreal
-
-maths in computing
+Vivas this week along with handing in the CPD
