@@ -64,7 +64,7 @@ Start of tinker audio - Essay when not in lectures main essay push for peer revi
 
 Essay completion week - Had driving cours. Still no work out of hours with new programing partner, I’ve been focused on the essays but need to manage my time in a way I can keep up to date with all projects
 
-### Term 2
+# Term 2
 
 ## Week 1
 
